@@ -1,0 +1,17 @@
+{
+  "name": "steal_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "is-even": "^1.0.0",
+    "jasmine": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+}
